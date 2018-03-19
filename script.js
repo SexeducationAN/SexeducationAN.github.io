@@ -1,2 +1,2 @@
 
-$("h3").css("color", "red");
+$("h3").css("color", "black");
